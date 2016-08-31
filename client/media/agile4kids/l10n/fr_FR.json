@@ -11,4 +11,9 @@
         "title": "Détails",
         "description": "Informations sur la conf..."
     }
+    
+     "billetterie" : {
+        "title": "Billetterie",
+    }
+    
 }
